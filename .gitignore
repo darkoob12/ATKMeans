@@ -1,0 +1,6 @@
+*.class
+*.csv
+*.txt
+*.data
+*.dat
+/bin/
